@@ -18,7 +18,7 @@
 
 Durante o desenvolvimento desse projeto nós separamos as tarefas e funções de forma que cada um pudesse contribuir com uma parte do projeto. Para o processo de documentação, todos os componentes do grupo colaboraram com uma ideia para a construção do primeiro e do segundo relatório. E assim conseguimos ter melhor desempenho em definir funcionalidades que o site irá executar. 
 
- 
+Para a construção do site usamos como base para definições do projeto a gestão de conhecimento, e assim relacionamos funcionalidades do site aos topicos do GC.
 
  
 
