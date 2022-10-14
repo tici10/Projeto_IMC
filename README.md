@@ -66,7 +66,7 @@ https://github.com/tici10/Projeto_IMC/blob/main/Modelo%20l%C3%B3gico.drawio.png
 #### Para a criação do banco de dados utilizamos o SQL server.
 #### Abaixo temos os arquivos do banco de dados das funcionalidades do site.
 
-https://github.com/tici10/Projeto_IMC/tree/main/Banco_de
+https://github.com/tici10/Projeto_IMC/tree/main/Banco_de_dados
 
 
 
