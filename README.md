@@ -59,6 +59,8 @@
 
 > <h3>Modelo lógico<h3>
 
+https://github.com/tici10/Projeto_IMC/blob/main/Modelo%20l%C3%B3gico.drawio.png
+
 
 
 
