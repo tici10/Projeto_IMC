@@ -9,7 +9,7 @@ foreign key (IdUsuario) references usuario (IdUsuario)
 
 insert into feedback( Nome_usuario, email)
 values ('Tesa','teresaS@gmail.com'),
-('Jo„o#5','joaoV@gmail.com'),
+('Jo√£o#5','joaoV@gmail.com'),
 ('Pedro14','pedro12gmail.com');
 
 
