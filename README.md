@@ -70,6 +70,10 @@ https://github.com/tici10/Projeto_IMC/tree/main/Banco_de_dados
 
 
 
+#### Alunos: Ticiane, Mateus Teixeira, Reinaldo, Jeffersone Osvaldo.
+
+
+
 
 
 
