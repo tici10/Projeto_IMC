@@ -12,6 +12,6 @@ foreign key (CodLogin) references login (CodLogin)
 
 insert into sugestao_medica(Nome_clinica, Tipo_clinica, Rua, Bairro, Lote)
 values ('Clinica Sonia Cabral', 'nutricionista', 'AL 12', '401 sul', '40'),
-('Nutrição clínica','nutricionista', 'AL 14', '501 sul', '13'),
-('Mente clean', 'psicológica', 'AL 04', '405 sul', '15');
+('NutriÃ§Ã£o clÃ­nica','nutricionista', 'AL 14', '501 sul', '13'),
+('Mente clean', 'psicolÃ³gica', 'AL 04', '405 sul', '15');
 
