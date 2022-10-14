@@ -11,5 +11,5 @@ foreign key (IdUsuario) references usuario(IdUsuario)
 
 insert into cadastro(Nome_usuario, email, senha, conf_senha) 
 values('Teresa', 'teresaS@gmail.com', '1234', '1234'),
-('Jo„o', 'joaoV@gmail.com', 'chave23','chave23'),
+('Jo√£o', 'joaoV@gmail.com', 'chave23','chave23'),
 ('Pedro', 'pedro12gmail.com', 'p2526', 'p2526'); 
