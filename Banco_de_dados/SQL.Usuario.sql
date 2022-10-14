@@ -6,7 +6,7 @@ primary key (IdUsuario)
 
 insert into usuario(Nome_usuario)
 values('Teresa'),
-('Jo„o'),
+('Jo√£o'),
 ('Pedro');
 
 
