@@ -24,36 +24,6 @@
 
 #### Durante o desenvolvimento desse projeto nós separamos as tarefas e funções de forma que cada um pudesse contribuir com uma parte do projeto. Assim, conseguimos ter melhor desempenho em definir funcionalidades que o site irá executar. 
 
-#### Para a construção do site usamos como base para definições do projeto a gestão de conhecimento, e assim relacionamos funcionalidades do site aos topicos do mesmo. E abaixo temos alguns tópicos de gerenciamento de conhecimento. 
- 
-+ #### Compartilhar o conhecimento internamente  
-
-  #### Área de dicas alimentação e exercícios físicos
-
-+ #### Atualizar o conhecimento 
-
-  #### Metas diárias  
-  #### Sugestão médica
-           
-+ #### Processar e aplicar o conhecimento
-
-  ####  Calculo IMC 
-
-+ #### Adquirir conhecimento externamente 
-
-  #### Área de feedback  
-
-+ #### Reutilizar o conhecimento
-
-  #### Metas diárias
-
-+ ####  Criar novos conhecimentos
- 
-  #### Aprimoramento do site 
- 
-+ #### Compartilhar o conhecimento com a comunidade
-
-  #### Metas diárias 
 
  >  <h3>Rotas<h3>
  
