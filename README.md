@@ -27,7 +27,7 @@
 
  >  <h3>Padronização e permissão de rotas<h3> 
   
-####Para o as configurações das rotas, facilitamos a forma do usuario utilizar as funcionalidades  do site, e para isso padronizamos rotas de acesso para o usuário entender de uma forma melhor esse nuprocesso.
+####Para o as configurações das rotas, facilitamos a forma do usuario utilizar as funcionalidades  do site, e para isso padronizamos rotas de acesso para o usuário entender de uma forma melhor// esse nuprocesso.
 
 ###Cadastro 
 IMC/Cadastro/Id
