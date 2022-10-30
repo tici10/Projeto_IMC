@@ -1,0 +1,11 @@
+> <h3>   
+1.1. Cálculo de IMC 
+
+[RN 1.1.1] Calcular o IMC do usuário.
+Para calcular o IMC o usuário deve inserir seu peso, e logo em seguida 
+inserir também sua altura, após isso, o sistema calcula seu IMC. 
+
+[RN 1.1.2] Preenchimento obrigatório de peso e altura. 
+Para o preenchimento dos dados de peso e altura, o usuário deve
+obrigatoriamente inseri-los para o sistema efetuar o cálculo.
+
