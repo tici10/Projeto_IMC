@@ -25,7 +25,31 @@
 #### Durante o desenvolvimento desse projeto nós separamos as tarefas e funções de forma que cada um pudesse contribuir com uma parte do projeto. Assim, conseguimos ter melhor desempenho em definir funcionalidades que o site irá executar. 
 
 
- >  <h3>Rotas<h3>
+ >  <h3>Padronização e permissão de rotas<h3> 
+  
+Para o as configurações das rotas, facilitamos a forma do usuario utilizar as funcionalidades  do site, e para isso padronizamos rotas de acesso para o usuário entender de uma forma melhor esse processo. 
+
+Cadastro 
+IMC/Cadastro/Id
+https://imc-health.com/cadastro
+
+Login
+IMC/Login/Id
+https://imc-health.com/login/id
+
+
+feedback
+IMC/Feedback/id 
+https://imc-health.com/feedback
+
+Metas diárias 
+IMC/metas-diárias/
+https://imc-health.com/metas-diarias/
+       
+Sugestão médica 
+IMC/sugestão-médica/
+https://imc-heath.com/sugestao-medica/
+
  
 
 > <h3>Modelo lógico<h3>
