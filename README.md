@@ -27,26 +27,26 @@
 
  >  <h3>Padronização e permissão de rotas<h3> 
   
-####Para o as configurações das rotas, facilitamos a forma do usuario utilizar as funcionalidades  do site, e para isso padronizamos rotas de acesso para o usuário entender de uma forma melhor// esse nuprocesso.
+#### Para o as configurações das rotas, facilitamos a forma do usuario utilizar as funcionalidades  do site, e para isso padronizamos rotas de acesso para o usuário entender de uma forma melhor esse processo.
 
-###Cadastro 
+### Cadastro 
 IMC/Cadastro/Id
 https://imc-health.com/cadastro
 
-####Login
+#### Login
 IMC/Login/Id
 https://imc-health.com/login/id
 
 
-####feedback
+#### feedback
 IMC/Feedback/id 
 https://imc-health.com/feedback
 
-####Metas diárias 
+#### Metas diárias 
 IMC/metas-diárias/
 https://imc-health.com/metas-diarias/
-       
-####Sugestão médica 
+        
+#### Sugestão médica 
 IMC/sugestão-médica/
 https://imc-heath.com/sugestao-medica/
 
