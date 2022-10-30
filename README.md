@@ -29,7 +29,7 @@
   
 #### Para o as configurações das rotas, facilitamos a forma do usuario utilizar as funcionalidades  do site, e para isso padronizamos rotas de acesso para o usuário entender de uma forma melhor esse processo.
 
-### Cadastro 
+#### Cadastro 
 IMC/Cadastro/Id
 https://imc-health.com/cadastro
 
