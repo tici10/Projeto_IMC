@@ -27,26 +27,26 @@
 
  >  <h3>Padronização e permissão de rotas<h3> 
   
-Para o as configurações das rotas, facilitamos a forma do usuario utilizar as funcionalidades  do site, e para isso padronizamos rotas de acesso para o usuário entender de uma forma melhor esse nuprocesso.
+####Para o as configurações das rotas, facilitamos a forma do usuario utilizar as funcionalidades  do site, e para isso padronizamos rotas de acesso para o usuário entender de uma forma melhor esse nuprocesso.
 
-Cadastro 
+###Cadastro 
 IMC/Cadastro/Id
 https://imc-health.com/cadastro
 
-Login
+####Login
 IMC/Login/Id
 https://imc-health.com/login/id
 
 
-feedback
+####feedback
 IMC/Feedback/id 
 https://imc-health.com/feedback
 
-Metas diárias 
+####Metas diárias 
 IMC/metas-diárias/
 https://imc-health.com/metas-diarias/
        
-Sugestão médica 
+####Sugestão médica 
 IMC/sugestão-médica/
 https://imc-heath.com/sugestao-medica/
 
@@ -62,6 +62,86 @@ https://github.com/tici10/Projeto_IMC/blob/main/Modelo%20l%C3%B3gico.drawio.png
 #### Abaixo temos os arquivos do banco de dados das funcionalidades do site.
 
 https://github.com/tici10/Projeto_IMC/tree/main/Banco_de_dados
+
+
+> <h3>Regras de negócio<h3> 
+
+Para as regras de negócio decidimos criar uma lista de regras para demonstrar o funcionamento do sistema.
+
+1.1. Cálculo de IMC 
+
+[RN 1.1.1] Calcular o IMC do usuário.
+Para calcular o IMC o usuário deve inserir seu peso, e logo em seguida 
+inserir também sua altura, após isso, o sistema calcula seu IMC. 
+
+[RN 1.1.2] Preenchimento obrigatório de peso e altura. 
+Para o preenchimento dos dados de peso e altura, o usuário deve
+obrigatoriamente inseri-los para o sistema efetuar o cálculo.
+
+
+
+1.2. Cadastro do Usuário
+
+
+[RN 1.2.1] Cadastrar.
+Todos os Usuários deverão informar seu Email, Senha e Confirmação de Senha.
+
+[RN 1.2.2] Preenchimento Obrigatório.
+Todos os campos do Cadastro deverão ser preenchidos pelo Usuário Obrigatoriamente.
+
+[RN 1.2.3] Senha e Confirmação de Senha.
+O Usuário deverá informar uma senha com no mínimo 6 caracteres e no máximo 16 caracteres, podendo colocar qualquer tipo de caractere.
+
+[RN 1.2.4]. Regra de Preenchimento.
+O campo “email” deverá conter um domínio. 
+
+
+
+
+1.3. Login do Usuário
+
+[RN 1.3.1] Login.
+Para efetuar o login o usuário deve informar o seu e-mail e senha.
+
+[RN 1.3.2] Recuperar senha.
+Para o usuário trocar a senha caso ele tenha esquecido, ele deve ir a opção “esqueci minha senha” para enviar um código de verificação no email do mesmo, e em seguida escolher sua nova senha.
+
+
+
+1.4. Feedback Geral
+
+[RN 1.4.1] Feedback.
+Todos os Usuários cadastrados e não cadastrados terão acesso a Página de Feedback.
+
+[RN 1.4.2] Enviar Feedback.
+Para enviar um Feedback será necessário informar Nome, Email e a Descrição.
+
+[RN 1.4.3] Preenchimento Obrigatório.
+Todos os campos para enviar um Feedback deverão ser preenchidos pelo Usuário Obrigatoriamente.
+
+[RN 1.4.3] Destino do Envio Feedback.
+Feedback será enviado para nossa empresa, caso como sugestão ou até hater, vamos analisar e tentar arrumar o problema.
+
+
+
+1.5. Metas diárias
+
+RN[2.2.1] Acesso a metas diárias
+Para o usuário conseguir ter acesso às metas diárias, precisa se cadastrar no site.
+
+RN [2.2.2]  Permitir notificações
+Quando o usuário entrar no site, aparecerá uma mensagem (Deseja receber notificações de metas diárias?)
+SIM ou NÃO.
+
+1.6 Sugestão médica
+
+RN[2.2.3] Acesso a sugestões médicas 
+Apenas usuários cadastrados terão acesso a sugestões médicas.
+
+RN[2.2.4] sugestões médicas
+As sugestões médicas só estarão disponíveis após o cálculo do imc. 
+
+
 
 
 
