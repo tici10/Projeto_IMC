@@ -31,23 +31,28 @@
 
 #### Cadastro 
 IMC/Cadastro/Id
+ 
 https://imc-health.com/cadastro
 
 #### Login
 IMC/Login/Id
+ 
 https://imc-health.com/login/id
 
 
 #### feedback
 IMC/Feedback/id 
+ 
 https://imc-health.com/feedback
 
 #### Metas diárias 
 IMC/metas-diárias/
+ 
 https://imc-health.com/metas-diarias/
         
 #### Sugestão médica 
 IMC/sugestão-médica/
+ 
 https://imc-heath.com/sugestao-medica/
 
  
