@@ -73,7 +73,7 @@ https://imc-heath.com/sugestao-medica/
 
 > <h3>Regras de negócio<h3> 
 
-Para as regras de negócio decidimos criar uma lista de regras para demonstrar o funcionamento do sistema.
+#### Para as regras de negócio decidimos criar uma lista de regras para demonstrar o funcionamento do sistema.
 
 [Calculo](https://github.com/tici10/Projeto_IMC/blob/f213e238bc2d10ef49d778f196ad00cd6fdfc8ab/Regras%20de%20neg%C3%B3cio/Calculo_de_IMC)
 
@@ -91,11 +91,11 @@ Para as regras de negócio decidimos criar uma lista de regras para demonstrar o
 
  #### Para o acesso do site IMC health destacamos as seguintes medidas:
  
-Apenas o administrador tem acesso a seus dados pessoais, através de seu cadastro.
-O acesso a seus dados pessoais é feito somente após a confirmação de registro.
-Seus dados pessoais são armazenados em ambiente seguro.
-O usuário deve permitir o seu acesso ao site  através dos termos de uso, também podendo permitir seu melhor acesso através de cookies.
-Seu peso e altura devem ser informados durante a execução do cálculo.
++ #### Apenas o administrador tem acesso a seus dados pessoais, através de seu cadastro.
++ #### O acesso a seus dados pessoais é feito somente após a confirmação de registro.
++ #### Seus dados pessoais são armazenados em ambiente seguro.
++ #### O usuário deve permitir o seu acesso ao site  através dos termos de uso, também podendo permitir seu melhor acesso através de cookies.
++ #### Seu peso e altura devem ser informados durante a execução do cálculo.
 
 
 
