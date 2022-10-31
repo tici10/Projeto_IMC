@@ -77,20 +77,7 @@ Para as regras de negócio decidimos criar uma lista de regras para demonstrar o
 
 [Calculo](https://github.com/tici10/Projeto_IMC/blob/f213e238bc2d10ef49d778f196ad00cd6fdfc8ab/Regras%20de%20neg%C3%B3cio/Calculo_de_IMC)
 
-1.2. Cadastro do Usuário
-
-
-[RN 1.2.1] Cadastrar.
-Todos os Usuários deverão informar seu Email, Senha e Confirmação de Senha.
-
-[RN 1.2.2] Preenchimento Obrigatório.
-Todos os campos do Cadastro deverão ser preenchidos pelo Usuário Obrigatoriamente.
-
-[RN 1.2.3] Senha e Confirmação de Senha.
-O Usuário deverá informar uma senha com no mínimo 6 caracteres e no máximo 16 caracteres, podendo colocar qualquer tipo de caractere.
-
-[RN 1.2.4]. Regra de Preenchimento.
-O campo “email” deverá conter um domínio. 
+[Cadastro](https://github.com/tici10/Projeto_IMC/blob/f213e238bc2d10ef49d778f196ad00cd6fdfc8ab/Regras%20de%20neg%C3%B3cio/Cadastro) 
 
 
 
