@@ -75,17 +75,7 @@ https://imc-heath.com/sugestao-medica/
 
 Para as regras de negócio decidimos criar uma lista de regras para demonstrar o funcionamento do sistema.
 
-1.1. Cálculo de IMC 
-
-[RN 1.1.1] Calcular o IMC do usuário.
-Para calcular o IMC o usuário deve inserir seu peso, e logo em seguida 
-inserir também sua altura, após isso, o sistema calcula seu IMC. 
-
-[RN 1.1.2] Preenchimento obrigatório de peso e altura. 
-Para o preenchimento dos dados de peso e altura, o usuário deve
-obrigatoriamente inseri-los para o sistema efetuar o cálculo.
-
-
+https://github.com/tici10/Projeto_IMC/blob/f213e238bc2d10ef49d778f196ad00cd6fdfc8ab/Regras%20de%20neg%C3%B3cio/Calculo_de_IMC)
 
 1.2. Cadastro do Usuário
 
