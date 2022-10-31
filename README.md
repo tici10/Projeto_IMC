@@ -77,7 +77,7 @@ Para as regras de negócio decidimos criar uma lista de regras para demonstrar o
 
 [Calculo](https://github.com/tici10/Projeto_IMC/blob/f213e238bc2d10ef49d778f196ad00cd6fdfc8ab/Regras%20de%20neg%C3%B3cio/Calculo_de_IMC)
 
-[Cadastro](https://github.com/tici10/Projeto_IMC/blob/f213e238bc2d10ef49d778f196ad00cd6fdfc8ab/Regras%20de%20neg%C3%B3cio/Cadastro) 
+[Cadastro]( )
 
 
 
