@@ -1,0 +1,16 @@
+1.5. Metas diárias
+
+RN[2.2.1] Acesso a metas diárias
+Para o usuário conseguir ter acesso às metas diárias, precisa se cadastrar no site.
+
+RN [2.2.2]  Permitir notificações
+Quando o usuário entrar no site, aparecerá uma mensagem (Deseja receber notificações de metas diárias?)
+SIM ou NÃO.
+
+1.6 Sugestão médica
+
+RN[2.2.3] Acesso a sugestões médicas 
+Apenas usuários cadastrados terão acesso a sugestões médicas.
+
+RN[2.2.4] sugestões médicas
+As sugestões médicas só estarão disponíveis após o cálculo do imc. 
