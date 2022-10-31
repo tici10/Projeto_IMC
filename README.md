@@ -1,9 +1,9 @@
-<h2>IMC HEALTH<h2>
+<h1>IMC HEALTH</h1>
 
-> Sobre o projeto 
-### Esse sistema tem como objetivo calcular o índice de massa corporal de um indivíduo e apresentar formas de assessoria esportiva, ou seja, indicar exercícios físicos e para melhorar sua saúde. 
+> ### Sobre o projeto 
+#### Esse sistema tem como objetivo calcular o índice de massa corporal de um indivíduo e apresentar formas de assessoria esportiva, ou seja, indicar exercícios físicos e para melhorar sua saúde. 
 
-> <h3>Funcionalidades<h3>
+> <h2>Funcionalidades</h2>
 + #### Cadastro: O usuário deve informar seus dados como e-mail e criar uma senha para o registro, e por fim, confirmar a senha para a finalização do cadastro.
 
 + #### Login: Após a criação do cadastro, o usuário deve  informar o e-mail e a senha já criada no campo de cadastro e confirmar a ação de login.
@@ -14,7 +14,7 @@
 + #### Feedback: A área de Feedback vai servir para os usuários que desejam compartilhar a sua experiência que teve com o site. 
 + #### Sugestão médica: Nesse campo o usuário poderá receber sugestões de clínicas médicas e também pesquisar clínicas presentes em sua cidade.
 
-> <h3>Configurações do projeto<h3>
+> <h2>Configurações do projeto</h2>
 
 #### Para o desenvolvimento do site utilizámos: HTML,CSS e JAVASCRIPT
 
@@ -26,7 +26,7 @@
 
 
 
- >  <h3>Padronização e permissão de rotas<h3> 
+ >  <h2>Padronização e permissão de rotas</h2> 
   
 #### Para o as configurações das rotas, facilitamos a forma do usuario utilizar as funcionalidades  do site, e para isso padronizamos rotas de acesso para o usuário entender de uma forma melhor esse processo.
 
@@ -58,16 +58,16 @@ https://imc-heath.com/sugestao-medica/
 
  
 
-> <h3>Modelo lógico<h3>
+> <h2>Modelo lógico</h2>
 
-https://github.com/tici10/Projeto_IMC/blob/main/Modelo%20l%C3%B3gico.drawio.png
+[Modelos](https://github.com/tici10/Projeto_IMC/blob/main/Modelo%20l%C3%B3gico.drawio.png)
 
-> <h3>Banco de dados<h3> 
+> <h2>Banco de dados</h2> 
 
 #### Para a criação do banco de dados utilizamos o SQL server.
 #### Abaixo temos os arquivos do banco de dados das funcionalidades do site.
 
-https://github.com/tici10/Projeto_IMC/tree/main/Banco_de_dados
+[Banco de dados](https://github.com/tici10/Projeto_IMC/tree/main/Banco_de_dados)
 
 
 
