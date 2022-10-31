@@ -81,22 +81,9 @@ Para as regras de negócio decidimos criar uma lista de regras para demonstrar o
 
 [Login](https://github.com/tici10/Projeto_IMC/blob/c525e2c4f4f3c55c09c7428e954ab67acffa0518/Regras%20de%20neg%C3%B3cio/Login)
 
+[Feedback](https://github.com/tici10/Projeto_IMC/blob/22f1035fdfd90b6795da8600733a71ad181e0eca/Regras%20de%20neg%C3%B3cio/Feedback)
 
-
-1.4. Feedback Geral
-
-[RN 1.4.1] Feedback.
-Todos os Usuários cadastrados e não cadastrados terão acesso a Página de Feedback.
-
-[RN 1.4.2] Enviar Feedback.
-Para enviar um Feedback será necessário informar Nome, Email e a Descrição.
-
-[RN 1.4.3] Preenchimento Obrigatório.
-Todos os campos para enviar um Feedback deverão ser preenchidos pelo Usuário Obrigatoriamente.
-
-[RN 1.4.3] Destino do Envio Feedback.
-Feedback será enviado para nossa empresa, caso como sugestão ou até hater, vamos analisar e tentar arrumar o problema.
-
+[Metas diárias]( )
 
 
 1.5. Metas diárias
