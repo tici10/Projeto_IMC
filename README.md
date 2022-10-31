@@ -75,7 +75,7 @@ https://imc-heath.com/sugestao-medica/
 
 Para as regras de negócio decidimos criar uma lista de regras para demonstrar o funcionamento do sistema.
 
-https://github.com/tici10/Projeto_IMC/blob/f213e238bc2d10ef49d778f196ad00cd6fdfc8ab/Regras%20de%20neg%C3%B3cio/Calculo_de_IMC)
+[Calculo](https://github.com/tici10/Projeto_IMC/blob/f213e238bc2d10ef49d778f196ad00cd6fdfc8ab/Regras%20de%20neg%C3%B3cio/Calculo_de_IMC)
 
 1.2. Cadastro do Usuário
 
