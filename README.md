@@ -25,6 +25,7 @@
 #### Durante o desenvolvimento desse projeto nós separamos as tarefas e funções de forma que cada um pudesse contribuir com uma parte do projeto. Assim, conseguimos ter melhor desempenho em definir funcionalidades que o site irá executar. 
 
 
+
  >  <h3>Padronização e permissão de rotas<h3> 
   
 #### Para o as configurações das rotas, facilitamos a forma do usuario utilizar as funcionalidades  do site, e para isso padronizamos rotas de acesso para o usuário entender de uma forma melhor esse processo.
@@ -67,6 +68,7 @@ https://github.com/tici10/Projeto_IMC/blob/main/Modelo%20l%C3%B3gico.drawio.png
 #### Abaixo temos os arquivos do banco de dados das funcionalidades do site.
 
 https://github.com/tici10/Projeto_IMC/tree/main/Banco_de_dados
+
 
 
 > <h3>Regras de negócio<h3> 
