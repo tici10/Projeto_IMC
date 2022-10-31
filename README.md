@@ -79,16 +79,7 @@ Para as regras de negócio decidimos criar uma lista de regras para demonstrar o
 
 [Cadastro](https://github.com/tici10/Projeto_IMC/blob/b52aa005f146bf1f70616a7120909459fc0933a2/Regras%20de%20neg%C3%B3cio/Cadastro)
 
-
-
-
-1.3. Login do Usuário
-
-[RN 1.3.1] Login.
-Para efetuar o login o usuário deve informar o seu e-mail e senha.
-
-[RN 1.3.2] Recuperar senha.
-Para o usuário trocar a senha caso ele tenha esquecido, ele deve ir a opção “esqueci minha senha” para enviar um código de verificação no email do mesmo, e em seguida escolher sua nova senha.
+[Login](https://github.com/tici10/Projeto_IMC/blob/c525e2c4f4f3c55c09c7428e954ab67acffa0518/Regras%20de%20neg%C3%B3cio/Login)
 
 
 
