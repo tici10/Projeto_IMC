@@ -85,6 +85,20 @@ Para as regras de negócio decidimos criar uma lista de regras para demonstrar o
 
 [Metas diárias](https://github.com/tici10/Projeto_IMC/blob/17c360afa8fa300be7b742779de892e506dfd93b/Regras%20de%20neg%C3%B3cio/Metas%20di%C3%A1rias)
 
+ 
+ 
+ > <h3>Termos de uso</h3>
+
+Para o acesso do site IMC health destc#amos as seguintes medidas:
+ 
+Apenas o administrador tem acesso a seus dados pessoais, através de seu cadastro.
+O acesso a seus dados pessoais é feito somente após a confirmação de registro.
+Seus dados pessoais são armazenados em ambiente seguro.
+O usuário deve permitir o seu acesso ao site  através dos termos de uso, também podendo permitir seu melhor acesso através de cookies.
+Seu peso e altura devem ser informados durante a execução do cálculo.
+
+
+
 
 
 
