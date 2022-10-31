@@ -89,7 +89,7 @@ Para as regras de negócio decidimos criar uma lista de regras para demonstrar o
  
  > <h3>Termos de uso</h3>
 
-Para o acesso do site IMC health destc#amos as seguintes medidas:
+ #### Para o acesso do site IMC health destacamos as seguintes medidas:
  
 Apenas o administrador tem acesso a seus dados pessoais, através de seu cadastro.
 O acesso a seus dados pessoais é feito somente após a confirmação de registro.
