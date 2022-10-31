@@ -1,0 +1,13 @@
+1.4. Feedback Geral
+
+[RN 1.4.1] Feedback.
+Todos os Usuários cadastrados e não cadastrados terão acesso a Página de Feedback.
+
+[RN 1.4.2] Enviar Feedback.
+Para enviar um Feedback será necessário informar Nome, Email e a Descrição.
+
+[RN 1.4.3] Preenchimento Obrigatório.
+Todos os campos para enviar um Feedback deverão ser preenchidos pelo Usuário Obrigatoriamente.
+
+[RN 1.4.3] Destino do Envio Feedback.
+Feedback será enviado para nossa empresa, caso como sugestão ou até hater, vamos analisar e tentar arrumar o problema.
