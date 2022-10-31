@@ -83,25 +83,10 @@ Para as regras de negócio decidimos criar uma lista de regras para demonstrar o
 
 [Feedback](https://github.com/tici10/Projeto_IMC/blob/22f1035fdfd90b6795da8600733a71ad181e0eca/Regras%20de%20neg%C3%B3cio/Feedback)
 
-[Metas diárias]( )
+[Metas diárias](https://github.com/tici10/Projeto_IMC/blob/17c360afa8fa300be7b742779de892e506dfd93b/Regras%20de%20neg%C3%B3cio/Metas%20di%C3%A1rias)
 
 
-1.5. Metas diárias
 
-RN[2.2.1] Acesso a metas diárias
-Para o usuário conseguir ter acesso às metas diárias, precisa se cadastrar no site.
-
-RN [2.2.2]  Permitir notificações
-Quando o usuário entrar no site, aparecerá uma mensagem (Deseja receber notificações de metas diárias?)
-SIM ou NÃO.
-
-1.6 Sugestão médica
-
-RN[2.2.3] Acesso a sugestões médicas 
-Apenas usuários cadastrados terão acesso a sugestões médicas.
-
-RN[2.2.4] sugestões médicas
-As sugestões médicas só estarão disponíveis após o cálculo do imc. 
 
 
 
