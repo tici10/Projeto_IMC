@@ -1,0 +1,17 @@
+História 2: Login
+
+Eu, como usuário, desejo efetuar meu login para que eu possa acessar minha conta.
+
+Cenário 1: E-mail ou senha incorreto
+
+Dado que o usuário insira o e-mail ou senha incorreto
+Quando o sistema verifica os dados inseridos
+E algum está incorreto 
+Então o sistema exibe uma mensagem de “erro no login e-mail ou senha digitados estão incorretos“.
+
+Cenário 2: Login efetuado com sucesso
+
+Dado que o usuário insira o e-mail e senha
+Quando o sistema verifica os dados inseridos 
+E todos estão corretos
+Então o sistema exibe uma mensagem de “login efetuado com sucesso”
