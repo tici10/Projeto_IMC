@@ -1,0 +1,14 @@
+História  4:  Metas diárias 
+
+Eu, como usuário, desejo permitir as metas diárias para saber as minhas atividades diárias 
+
+Cenário 1: Permitir as metas diárias
+  
+Dado que o usuário recebe uma mensagem de permissão as metas diárias 
+Quando o usuário permite 
+Então o sistema  mostra as metas diárias ao usuário 
+Cenário 2: Compartilhar metas diárias
+Dado que o usuário recebe suas metas diárias 
+Quando o usuário clicar em compartilhar, 
+Então o sistema deverá dar opção de whatsapp, facebook ou instagram
+E o sistema deverá compartilhar as metas diárias desse usuário 
