@@ -98,7 +98,11 @@ https://imc-heath.com/sugestao-medica/
 + #### Seu peso e altura devem ser informados durante a execução do cálculo.
 
 
+> <h3>Histórias de usuários</h3>
 
+[História 1](https://github.com/tici10/Projeto_IMC/blob/770b902e415394c4b2322eeae130c5603e8aff27/Hist%C3%B3rias%20de%20usu%C3%A1rio/Hist%C3%B3ria%201)
+
+[História 2]( )
 
 
 
