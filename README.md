@@ -102,7 +102,9 @@ https://imc-heath.com/sugestao-medica/
 
 [História 1](https://github.com/tici10/Projeto_IMC/blob/770b902e415394c4b2322eeae130c5603e8aff27/Hist%C3%B3rias%20de%20usu%C3%A1rio/Hist%C3%B3ria%201)
 
-[História 2]( )
+[História 2](https://github.com/tici10/Projeto_IMC/blob/2d57f3fb6391ab617bcf3d9ead6ede57f0b1d3e0/Hist%C3%B3rias%20de%20usu%C3%A1rio/Hist%C3%B3ria%202)
+
+[História 3]()
 
 
 
