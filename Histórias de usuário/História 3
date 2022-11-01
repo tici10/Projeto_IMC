@@ -1,12 +1,15 @@
 História 3°: Cálculo  do Imc
+
 Eu, como usuário, desejo calcular meu IMC para saber a condição do meu peso.
 
 Cenário 1: Cálculo realizado com sucesso 
+
 Dado que o usuário  insira o seu peso e sua altura 
 Quando o usuário clicar em calcular 
 Então o sistema deve mostrar o resultado do imc do usuário 
 
 Cenário 2: Dados do cálculo incompleto 
+
 Dado que o usuário insira os dados do cálculo 
 Quando o sistema verifica os dados 
 E algum campo está incompleto 
