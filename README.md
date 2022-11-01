@@ -86,8 +86,7 @@ https://imc-heath.com/sugestao-medica/
 [Metas diárias](https://github.com/tici10/Projeto_IMC/blob/17c360afa8fa300be7b742779de892e506dfd93b/Regras%20de%20neg%C3%B3cio/Metas%20di%C3%A1rias)
 
  
- 
- > <h3>Termos de uso</h3>
+ > <h2>Termos de uso </h2>
 
  #### Para o acesso do site IMC health destacamos as seguintes medidas:
  
