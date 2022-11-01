@@ -1,0 +1,24 @@
+História 1: Cadastro 
+
+Eu, como usuário, desejo realizar meu cadastro de forma que eu possa acessar as outras funcionalidades do site. 
+
+Cenário 1:  Cadastro incompleto
+
+Dado que o usuário insira os dados de cadastro
+Quando o sistema verifica os dados 
+E está faltando algum campo de cadastro 
+Então o sistema exibe a mensagem “ Dados incompletos, preencha todos os campos corretamente” 
+
+Cenário 2: Senhas incompatíveis
+
+Dado que o usuário crie sua senha 
+Quando o sistema verifica a senha 
+E os dados dos campos de confirmação de senha estão diferentes 
+Então o sistema exibe a mensagem “ senhas incompatíveis, preencha os campos corretamente ” 
+
+Cenário 3: Cadastro bem sucedido 
+
+Dado que o usuário insira seus dados corretamente
+Quando o usuário finaliza o cadastro 
+Então o sistema exibe a mensagem “ Cadastro realizado com sucesso” 
+
