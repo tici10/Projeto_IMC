@@ -22,7 +22,6 @@
 #### Por tanto o back end fizemos todo em javascript, usamos condições para classificar o usuário de acordo com o seu peso, usamos também o evento onclick no javascript, caso o usuário clicar no botão, aquela função será ativada, com todos os arquivos separados e organizados.
 #### Por fim realizamos um teste, para hospedar o site INFINITYFree, no infinityfree, nós podemos enviar nossos arquivos FTP, usando um domínio totalmente grátis onde nós podemos gerenciar os arquivos, e quando vamos gerenciar, somos direcionados para uma pagina FILEMANEGERMONSTA e assim podemos gerenciar.
 
-#### Durante o desenvolvimento desse projeto nós separamos as tarefas e funções de forma que cada um pudesse contribuir com uma parte do projeto. Assim, conseguimos ter melhor desempenho em definir funcionalidades que o site irá executar. 
 
 
 
